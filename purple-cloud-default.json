@@ -1,0 +1,26 @@
+{
+    "name": "Purple Cloud Default",
+    
+    "background": "#090b10",
+    "foreground": "#15fd00",
+    
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#FFFFFF",
+
+    "black": "#000000",
+    "blue": "#000080",
+    "brightBlack": "#2f3b54",
+    "brightBlue": "#0000FF",
+    "brightCyan": "#00cef7",
+    "brightGreen": "#00FF00",
+    "brightPurple": "#eb5cff",
+    "brightRed": "#be1100",
+    "brightWhite": "#FFFFFF",
+    "brightYellow": "#b5c01c",
+    "cyan": "#008080",
+    "green": "#93ff00",
+    "purple": "#b700f9",
+    "red": "#E60026",
+    "white": "#C0C0C0",
+    "yellow": "#FFFF00"
+}
